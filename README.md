@@ -21,7 +21,7 @@ The rule:
 - halt        Stops execution
 
 3. Arithmetic Operators
-- +           +Adds top two values on stack and places result on stack
+- +           + Adds top two values on stack and places result on stack
 - −           Similar to +, but subtraction is performed
 - ∗           Similar to +, but multiplication is performed
 - /           Similar to +, but integer division is performed
