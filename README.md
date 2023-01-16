@@ -50,3 +50,5 @@ The rule:
 - "return"      Returns from subroutine
 - "call"        Subroutine call
 
+This Program is ABM language compiler using Python.
+Input data : ABM code and Output data : ABM running result.
