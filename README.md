@@ -3,7 +3,7 @@
 What is ABM language?
 Abstract Machine Language.
 
-The rule:
+The grammar of AMB programming language:
 
 1. Stack Manipulation
 - "push c"      Pushes c onto the stack
