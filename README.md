@@ -2,7 +2,7 @@
 
 What is ABM language?
 Abstract Machine Language.
- 
+
 The grammar of AMB programming language: 
 
 1. Stack Manipulation
